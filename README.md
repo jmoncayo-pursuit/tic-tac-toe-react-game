@@ -11,4 +11,4 @@
         •       Add a button that increments the count when clicked.
   5.      Add Two Boxes with Conditional Styling:
         •       Create a 200x200 box that changes to red when the count is even, and blue when the count is odd.
-        •       Create another 200x200 box that turns green if the count is divisible by three, and black if it is not.
+        •       Create another 200x200 box that turns green if the count is divisible by three, and black if it is not.# tic-tac-toe-react-game
