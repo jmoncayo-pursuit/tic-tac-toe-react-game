@@ -1,15 +1,23 @@
+## Tic-Tac-Toe
 
+This is a simple Tic-Tac-Toe game built with React and Vite. - [Live Site](https://tic-tac-toe-react-vite-game.netlify.app)
 
-# React-Empty-Template
-  1.      Initialize a New React Project:
-        •       Create a new React project.
-  2.      Set Up the Counter State:
-        •       Set a count in the state, initializing it to 0.
-  3.      Render the Count on the DOM:
-        •       Display the count value on the page.
-   4.      Create an Increment Button:
-        •       Add a button that increments the count when clicked.
-  5.      Add Two Boxes with Conditional Styling:
-        •       Create a 200x200 box that changes to red when the count is even, and blue when the count is odd.
-        •       Create another 200x200 box that turns green if the count is divisible by three, and black if it is not.# tic-tac-toe-react-game
-# tic-tac-toe-react-game
+### Features
+
+* Play against another player
+* Single player mode (coming soon)
+* Reset button to start a new game
+* Responsive design for different screen sizes
+
+### How to Play
+
+1. Click on a square to place your mark (X or O).
+2. The first player to get three of their marks in a row, column, or diagonal wins.
+3. If all squares are filled and no player has won, the game ends in a draw.
+4. Click the "Reset Game" button to start a new game.
+
+### Technologies Used
+
+* React
+* Vite
+* SCSS

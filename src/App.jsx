@@ -61,7 +61,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1 className="app__title">Tic Tac Toe</h1>
+      <h1 className="app__title"> Tic Tac Toe </h1>
       <div className="app__board">
         {board.map((box, index) => (
           <div

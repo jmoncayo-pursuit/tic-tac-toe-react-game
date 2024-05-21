@@ -1,0 +1,32 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+  <rect width="100%" height="100%" fill="#f0f0f0"/>
+  
+  <!-- Grid -->
+  <line x1="100" y1="10" x2="100" y2="290" stroke="#333" stroke-width="10"/>
+  <line x1="200" y1="10" x2="200" y2="290" stroke="#333" stroke-width="10"/>
+  <line x1="10" y1="100" x2="290" y2="100" stroke="#333" stroke-width="10"/>
+  <line x1="10" y1="200" x2="290" y2="200" stroke="#333" stroke-width="10"/>
+  
+  <!-- X's and O's -->
+  <!-- X -->
+  <line x1="25" y1="25" x2="85" y2="85" stroke="#ff0000" stroke-width="10"/>
+  <line x1="85" y1="25" x2="25" y2="85" stroke="#ff0000" stroke-width="10"/>
+  
+  <!-- O -->
+  <circle cx="150" cy="50" r="35" stroke="#0000ff" stroke-width="10" fill="none"/>
+  
+  <!-- X -->
+  <line x1="215" y1="115" x2="275" y2="175" stroke="#ff0000" stroke-width="10"/>
+  <line x1="275" y1="115" x2="215" y2="175" stroke="#ff0000" stroke-width="10"/>
+  
+  <!-- O -->
+  <circle cx="50" cy="150" r="35" stroke="#0000ff" stroke-width="10" fill="none"/>
+  
+  <!-- X -->
+  <line x1="115" y1="215" x2="175" y2="275" stroke="#ff0000" stroke-width="10"/>
+  <line x1="175" y1="215" x2="115" y2="275" stroke="#ff0000" stroke-width="10"/>
+  
+  <!-- O -->
+  <circle cx="250" cy="250" r="35" stroke="#0000ff" stroke-width="10" fill="none"/>
+</svg>
